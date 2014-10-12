@@ -1,6 +1,6 @@
 -- CIS 194 Homework 2
 
-module Log where
+module Yorgey.Wk2.Log where
 
 import Control.Applicative
 

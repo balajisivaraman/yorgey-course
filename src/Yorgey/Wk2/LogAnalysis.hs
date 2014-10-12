@@ -1,8 +1,8 @@
 {-# OPTIONS_GHC -Wall #-}
 
-module LogAnalysis where
+module Yorgey.Wk2.LogAnalysis where
 
-import Log
+import Yorgey.Wk2.Log
 
 -- This one is not on me. Had to look it up on Google.
 -- But learned read, words and unwords functions, which is cool.

@@ -1,3 +1,4 @@
+module Yorgey.Intro where
 -- Solutions to exercises in 01-intro-hw.pdf
 
 -- Ex 1
