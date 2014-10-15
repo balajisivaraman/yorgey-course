@@ -16,6 +16,7 @@ library
 
   build-depends:       base >=4.7 && <4.8
                      , QuickCheck > 2.0
+                     , doctest >= 0.9.11
 
   hs-source-dirs:      src
 
